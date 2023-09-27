@@ -51,7 +51,7 @@ function App() {
 
     };
     return(
-      <Router>
+      <Router basename='https://phrodidriguez.github.io/portfolioreact/'>
         <div>
           <header>
             <div className={color ? 'header-bg' : 'header'}>
