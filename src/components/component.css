@@ -1,0 +1,32 @@
+.image {
+    width: 10px;
+    height: 10px;
+}
+
+.content p{
+    margin-left: 30%;
+    margin-right: 8%;
+    font-size: 25px;
+}
+
+/*#image{
+    width: 300px;
+    height: 300px;
+    background-image: url("./phlindo.jpg");
+    background-size: 300px;
+    position: absolute;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+*/
+.flex-box{
+    display: none;
+}
+@media (max-width: 620px){
+    p{
+       font-size: 2px;
+    }
+    
+
+
+}

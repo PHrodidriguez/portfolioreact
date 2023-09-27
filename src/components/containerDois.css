@@ -1,0 +1,80 @@
+
+body{
+    max-width: 2500px;
+    min-width: 300px;
+    flex-wrap: wrap;
+    min-height: 300px;
+}
+
+
+.proj{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    background-color: azure;
+    margin-left: 30px;
+}
+
+.projets{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.proj1{
+    background-image: url('./calculadorajs.png');
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    background-size: 300px;
+    margin-left: 30px;
+    cursor: pointer;
+
+
+}
+.proj1:hover{
+    border: 2px solid #fff;
+
+}
+.proj2{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    background-size: 300px;
+    background-image:url("./Creative\ Chatting\ App\ Logo.png");
+    margin-left: 30px;
+    cursor: pointer;
+}
+ .proj2:hover{
+    border: 2px solid #fff;
+}
+.proj3{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    background-size: 300px;
+    background-image:url('buscador\ de\ cep.png');
+    margin-left: 30px;
+    cursor: pointer;
+}
+ .proj3:hover{
+    border: 2px solid #fff;
+}
+.proj4{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    background-size: 300px;
+    background-image:url('./desenvolvimento.png');
+    margin-left: 30px;
+    cursor: pointer;
+}
+ .proj4:hover{
+    border: 2px solid #fff;
+}
+
+@media (max-width: 620px){
+    .projets{
+      margin-top: 105vh;
+     
+    }
+}

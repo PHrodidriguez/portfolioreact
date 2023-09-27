@@ -1,0 +1,39 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+
+.content{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(44, 46, 46);
+}
+
+.c Icon{
+    margin-top: 2%;
+    font-size: 80px;
+}
+.skills{
+    margin-top: 8%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.s{
+    width: 60px;
+    font-size: 50px;
+    
+}
+@media(max-width: 620px){
+    .content{
+        font-size:10px;
+    }
+    .c{
+        font-size: 20px;
+    }
+    .s{
+        font-size: 20px;
+    }
+}
