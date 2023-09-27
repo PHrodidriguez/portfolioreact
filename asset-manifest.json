@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolioreact/static/css/main.cc87340a.css",
-    "main.js": "/portfolioreact/static/js/main.4947afbd.js",
+    "main.js": "/portfolioreact/static/js/main.03f8b819.js",
     "static/js/787.df06223f.chunk.js": "/portfolioreact/static/js/787.df06223f.chunk.js",
     "static/media/phlindo.jpg": "/portfolioreact/static/media/phlindo.04fd0b74f6d261880fab.jpg",
     "static/media/buscador de cep.png": "/portfolioreact/static/media/buscador de cep.47cdaf516c729536d340.png",
@@ -10,11 +10,11 @@
     "static/media/Creative Chatting App Logo.png": "/portfolioreact/static/media/Creative Chatting App Logo.a5001556e3ec299b687c.png",
     "index.html": "/portfolioreact/index.html",
     "main.cc87340a.css.map": "/portfolioreact/static/css/main.cc87340a.css.map",
-    "main.4947afbd.js.map": "/portfolioreact/static/js/main.4947afbd.js.map",
+    "main.03f8b819.js.map": "/portfolioreact/static/js/main.03f8b819.js.map",
     "787.df06223f.chunk.js.map": "/portfolioreact/static/js/787.df06223f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc87340a.css",
-    "static/js/main.4947afbd.js"
+    "static/js/main.03f8b819.js"
   ]
 }
