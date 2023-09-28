@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { Route, Link, BrowserRouter as Router, Routes } from 'react-router-dom';
+import { Route, Link, basename, BrowserRouter as Router, Routes } from 'react-router-dom';
 import { FaLinkedinIn, FaGithub,FaWhatsapp } from 'react-icons/fa';
 import { useState } from 'react';
 import Container from './components/Container';
