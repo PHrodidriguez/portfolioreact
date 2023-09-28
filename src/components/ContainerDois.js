@@ -4,7 +4,6 @@ import React from 'react';
 import { Link, BrowserRouter } from 'react-router-dom';
 
 function ContainerDois(projets, ref) {
-
   return (
     <div ref={ref} className="projets">
       <a href='https://phrodidriguez.github.io/calculator/' target="_blank"><div className="proj1"></div></a>

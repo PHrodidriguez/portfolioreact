@@ -1,12 +1,11 @@
 import React, { useRef } from 'react';
-import { Route, Link, basename, BrowserRouter as Router, Routes } from 'react-router-dom';
+import { Route, Link, BrowserRouter as Router, Routes } from 'react-router-dom';
 import { FaLinkedinIn, FaGithub,FaWhatsapp } from 'react-icons/fa';
 import { useState } from 'react';
 import Container from './components/Container';
 import ContainerDois from './components/ContainerDois';
 import './App.css';
 import ComponentDois from './components/ComponentDois';
-import ProjectDois from './components/ProjectDois';
 import { useEffect } from 'react';
 
 
@@ -51,7 +50,7 @@ function App() {
 
     };
     return(
-      <Router basename='https://phrodidriguez.github.io/portfolioreact/'>
+      <Router>
         <div>
           <header>
             <div className={color ? 'header-bg' : 'header'}>
@@ -77,8 +76,7 @@ function App() {
           <div>
             <section className="contet">
               <Routes>
-                <Route path="/" element={<ContainerDois ref={ref} />} />
-                <Route path='./components/ProjectDois' element={<ProjectDois/>}/>
+                <Route path="/" element={<ContainerDois ref={ref} />}/>
               </Routes>
             </section>
           </div>
