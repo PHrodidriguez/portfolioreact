@@ -1,7 +1,15 @@
 .image {
     width: 10px;
     height: 10px;
+    
+        
 }
+@media (max-width: 620px){
+    image{
+       width: 10px;
+       height: 10px;
+    }}
+    
 
 .content p{
     margin-left: 30%;
