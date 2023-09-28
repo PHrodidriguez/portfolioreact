@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolioreact/static/css/main.cc87340a.css",
+    "main.css": "/portfolioreact/static/css/main.bcd05d77.css",
     "main.js": "/portfolioreact/static/js/main.03f8b819.js",
     "static/js/787.df06223f.chunk.js": "/portfolioreact/static/js/787.df06223f.chunk.js",
     "static/media/phlindo.jpg": "/portfolioreact/static/media/phlindo.04fd0b74f6d261880fab.jpg",
@@ -9,12 +9,12 @@
     "static/media/desenvolvimento.png": "/portfolioreact/static/media/desenvolvimento.0fa5b5843ac018a1fcac.png",
     "static/media/Creative Chatting App Logo.png": "/portfolioreact/static/media/Creative Chatting App Logo.a5001556e3ec299b687c.png",
     "index.html": "/portfolioreact/index.html",
-    "main.cc87340a.css.map": "/portfolioreact/static/css/main.cc87340a.css.map",
+    "main.bcd05d77.css.map": "/portfolioreact/static/css/main.bcd05d77.css.map",
     "main.03f8b819.js.map": "/portfolioreact/static/js/main.03f8b819.js.map",
     "787.df06223f.chunk.js.map": "/portfolioreact/static/js/787.df06223f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc87340a.css",
+    "static/css/main.bcd05d77.css",
     "static/js/main.03f8b819.js"
   ]
 }
