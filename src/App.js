@@ -76,7 +76,7 @@ function App() {
           <div>
             <section className="contet">
               <Routes>
-                <Route path="/" element={<ContainerDois ref={ref} />}/>
+                <Route basename="https://phrodidriguez.github.io/portfolioreact/" path="/" element={<ContainerDois ref={ref} />}/>
               </Routes>
             </section>
           </div>
